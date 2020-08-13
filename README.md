@@ -1,1 +1,3 @@
-# P1_Cloud_Computing_Deploy_Static_Website_on_AWS
+# Deploy a Static Website on AWS
+
+TODO: Update the content here.
